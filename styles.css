@@ -416,9 +416,7 @@ form{
 .about .grid li p{
     margin: 0;
 }
-p {
-	text-align: justify !important;
-}
+
 
 @media (max-width: 1000px){
 
